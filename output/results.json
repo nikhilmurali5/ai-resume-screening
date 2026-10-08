@@ -1,0 +1,2336 @@
+{
+  "batch_summary": {
+    "total_resumes": 50,
+    "successfully_parsed": 50,
+    "eligible": 39,
+    "rejected": 11,
+    "failed_or_unreadable": 0,
+    "llm_enabled": true,
+    "llm_analyzed_candidates": 39
+  },
+  "ranked_candidates": [
+    {
+      "candidate_name": "Hari Shanker Sharma",
+      "filename": "candidate_41.pdf",
+      "eligible": true,
+      "total_score": 81,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 29,
+        "cloud_fullstack": 11,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, rag, vector search, embeddings, llm, langchain",
+        "Backend evidence: python, fastapi, async, asynchronous, postgresql, redis, rest api, backend",
+        "Cloud/full-stack evidence: docker, aws, deployment, react, next.js",
+        "Engineering depth: testing, pytest, observability, ci/cd, architecture",
+        "LLM project-quality assessment: 36/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 36,
+        "implementation_evidence": []
+      },
+      "rank": 1
+    },
+    {
+      "candidate_name": "V Sree Raghu Vardhan",
+      "filename": "candidate_30.pdf",
+      "eligible": true,
+      "total_score": 79,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 30,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Azure",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, rag, retrieval, vector search, embeddings, evaluation, llm, langchain",
+        "Backend evidence: python, fastapi, django, async, asynchronous, postgresql, redis, rest api",
+        "Cloud/full-stack evidence: docker, azure, deployment, react",
+        "Engineering depth: testing, unit test, caching, ci/cd, architecture",
+        "LLM project-quality assessment: 34/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 34,
+        "implementation_evidence": []
+      },
+      "rank": 2
+    },
+    {
+      "candidate_name": "TECHNICAL SKILLS",
+      "filename": "candidate_35.pdf",
+      "eligible": true,
+      "total_score": 79,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 27,
+        "cloud_fullstack": 11,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "TensorFlow",
+        "PyTorch",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: multi-agent, langgraph, agentic, rag, embeddings, evaluation, llm",
+        "Backend evidence: python, fastapi, async, asynchronous, postgresql, redis, rest api, api",
+        "Cloud/full-stack evidence: docker, aws, deployment, react, next.js",
+        "Engineering depth: testing, unit test, caching, observability, logging",
+        "LLM project-quality assessment: 36/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 36,
+        "implementation_evidence": []
+      },
+      "rank": 3
+    },
+    {
+      "candidate_name": "Gourab Das",
+      "filename": "candidate_17.pdf",
+      "eligible": true,
+      "total_score": 78,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 30,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 4
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "Java",
+        "React",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, rag, retrieval, langchain",
+        "Backend evidence: python, fastapi, flask, django, async, asynchronous, postgresql, redis",
+        "Cloud/full-stack evidence: docker, aws, deployment, react",
+        "Engineering depth: unit test, pytest, ci/cd, architecture",
+        "LLM project-quality assessment: 34/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 34,
+        "implementation_evidence": []
+      },
+      "rank": 4
+    },
+    {
+      "candidate_name": "Yash Maini",
+      "filename": "candidate_13.pdf",
+      "eligible": true,
+      "total_score": 77,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 27,
+        "cloud_fullstack": 13,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "PostgreSQL",
+        "Docker",
+        "GCP",
+        "AWS",
+        "TensorFlow",
+        "PyTorch",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: multi-agent, langgraph, tool calling, tool-calling, rag, embeddings, llm, langchain",
+        "Backend evidence: python, fastapi, flask, async, postgresql, rest api, backend, api",
+        "Cloud/full-stack evidence: docker, gcp, aws, deployment",
+        "Engineering depth: unit test, ci/cd",
+        "LLM project-quality assessment: 35/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 35,
+        "implementation_evidence": []
+      },
+      "rank": 5
+    },
+    {
+      "candidate_name": "candidate_33",
+      "filename": "candidate_33.pdf",
+      "eligible": true,
+      "total_score": 76,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 27,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 4
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Docker",
+        "AWS",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, agentic, tool calling, rag, retrieval, llm, langchain, llamaindex",
+        "Backend evidence: python, fastapi, flask, async, asynchronous, rest api, backend, api",
+        "Cloud/full-stack evidence: docker, aws, deployment",
+        "Engineering depth: pytest, caching, logging, architecture",
+        "LLM project-quality assessment: 36/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 36,
+        "implementation_evidence": []
+      },
+      "rank": 6
+    },
+    {
+      "candidate_name": "Vivek Chimnani",
+      "filename": "candidate_44.pdf",
+      "eligible": true,
+      "total_score": 76,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 29,
+        "cloud_fullstack": 11,
+        "github": 0,
+        "engineering_depth": 4
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "LangGraph",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, llm",
+        "Backend evidence: python, fastapi, async, asynchronous, postgresql, redis, rest api, backend",
+        "Cloud/full-stack evidence: docker, aws, deployment, react, next.js",
+        "Engineering depth: queue, concurrency, ci/cd, architecture",
+        "LLM project-quality assessment: 32/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 32,
+        "implementation_evidence": []
+      },
+      "rank": 7
+    },
+    {
+      "candidate_name": "Nevil Jasmin Mehta",
+      "filename": "candidate_50.pdf",
+      "eligible": true,
+      "total_score": 73,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 30,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "Java",
+        "JavaScript",
+        "React",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, embeddings, llm",
+        "Backend evidence: python, fastapi, flask, django, async, postgresql, redis, backend",
+        "Cloud/full-stack evidence: docker, aws, deployment, react",
+        "Engineering depth: architecture",
+        "LLM project-quality assessment: 32/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 32,
+        "implementation_evidence": []
+      },
+      "rank": 8
+    },
+    {
+      "candidate_name": "candidate_28",
+      "filename": "candidate_28.pdf",
+      "eligible": true,
+      "total_score": 71,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 20,
+        "cloud_fullstack": 11,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "TypeScript",
+        "React",
+        "PostgreSQL",
+        "Docker",
+        "GCP",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: multi-agent, langgraph, agentic, rag, retrieval, llm, langchain",
+        "Backend evidence: python, fastapi, postgresql, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: docker, gcp, deployment, react",
+        "Engineering depth: testing, pytest, logging, ci/cd, architecture",
+        "LLM project-quality assessment: 35/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 35,
+        "implementation_evidence": []
+      },
+      "rank": 9
+    },
+    {
+      "candidate_name": "RAJ THUMAR",
+      "filename": "candidate_40.pdf",
+      "eligible": true,
+      "total_score": 70,
+      "score_breakdown": {
+        "ai_project_depth": 33,
+        "python_backend": 27,
+        "cloud_fullstack": 8,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, llm",
+        "Backend evidence: python, flask, async, asynchronous, postgresql, redis, rest api, backend",
+        "Cloud/full-stack evidence: docker, aws, react",
+        "Engineering depth: caching, architecture",
+        "LLM project-quality assessment: 33/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 33,
+        "implementation_evidence": []
+      },
+      "rank": 10
+    },
+    {
+      "candidate_name": "ARUNIMA SAHA",
+      "filename": "candidate_43.pdf",
+      "eligible": true,
+      "total_score": 70,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 20,
+        "cloud_fullstack": 13,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "Docker",
+        "AWS",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, agentic, tool calling, rag, retrieval, vector search, embeddings, evaluation",
+        "Backend evidence: python, fastapi, postgresql, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: docker, google cloud, aws, deployment",
+        "Engineering depth: observability, logging, architecture",
+        "LLM project-quality assessment: 34/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 34,
+        "implementation_evidence": []
+      },
+      "rank": 11
+    },
+    {
+      "candidate_name": "candidate_10",
+      "filename": "candidate_10.pdf",
+      "eligible": true,
+      "total_score": 67,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 21,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Azure",
+        "LangGraph",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, agentic, rag",
+        "Backend evidence: python, fastapi, postgresql, redis, backend, api, sql",
+        "Cloud/full-stack evidence: azure, vercel, react, next.js",
+        "Engineering depth: testing, caching, observability, logging, ci/cd",
+        "LLM project-quality assessment: 35/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 35,
+        "implementation_evidence": []
+      },
+      "rank": 12
+    },
+    {
+      "candidate_name": "PRAJWAL A S",
+      "filename": "candidate_22.pdf",
+      "eligible": true,
+      "total_score": 66,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 27,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "React",
+        "PostgreSQL",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: multi-agent, langgraph, tool-calling, rag, embeddings, llm, langchain",
+        "Backend evidence: python, fastapi, flask, async, postgresql, rest api, backend, api",
+        "Cloud/full-stack evidence: vercel, react",
+        "Engineering depth: architecture",
+        "LLM project-quality assessment: 36/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 36,
+        "implementation_evidence": []
+      },
+      "rank": 13
+    },
+    {
+      "candidate_name": "Arjun Kumar",
+      "filename": "candidate_08.pdf",
+      "eligible": true,
+      "total_score": 65,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 27,
+        "cloud_fullstack": 5,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "TensorFlow",
+        "OpenCV",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, agentic, rag, embeddings, evaluation, llm, langchain",
+        "Backend evidence: python, fastapi, django, async, postgresql, rest api, backend, api",
+        "Cloud/full-stack evidence: aws, react, next.js",
+        "Engineering depth: queue, concurrency, ci/cd",
+        "LLM project-quality assessment: 30/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 30,
+        "implementation_evidence": []
+      },
+      "rank": 14
+    },
+    {
+      "candidate_name": "candidate_47",
+      "filename": "candidate_47.pdf",
+      "eligible": true,
+      "total_score": 65,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 15,
+        "cloud_fullstack": 11,
+        "github": 2,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Docker",
+        "AWS",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": "https://github.com/kiran-naregal",
+        "available": true,
+        "score": 2,
+        "summary": "1 recently updated repositories; 1 Python/AI/backend-relevant repositories.",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: multi-agent, langgraph, agentic, rag, retrieval, evaluation, llm, langchain",
+        "Backend evidence: python, fastapi, backend, api, sql",
+        "Cloud/full-stack evidence: docker, aws, deployment, react, next.js",
+        "Engineering depth: logging, architecture",
+        "LLM project-quality assessment: 35/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 35,
+        "implementation_evidence": []
+      },
+      "rank": 15
+    },
+    {
+      "candidate_name": "candidate_07",
+      "filename": "candidate_07.pdf",
+      "eligible": true,
+      "total_score": 64,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 25,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Redis",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: multi-agent, langgraph, agentic, tool calling, tool-calling, rag, retrieval, llm",
+        "Backend evidence: python, fastapi, async, asynchronous, redis, rest api, backend, api",
+        "Cloud/full-stack evidence: react, next.js",
+        "Engineering depth: architecture",
+        "LLM project-quality assessment: 36/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 36,
+        "implementation_evidence": []
+      },
+      "rank": 16
+    },
+    {
+      "candidate_name": "Aditi Kala",
+      "filename": "candidate_37.pdf",
+      "eligible": true,
+      "total_score": 63,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 22,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Docker",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, llm",
+        "Backend evidence: python, fastapi, flask, postgresql, backend, api, sql",
+        "Cloud/full-stack evidence: docker, google cloud, react, nextjs",
+        "Engineering depth: testing",
+        "LLM project-quality assessment: 30/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 30,
+        "implementation_evidence": []
+      },
+      "rank": 17
+    },
+    {
+      "candidate_name": "Vivek Shekhawat",
+      "filename": "candidate_39.pdf",
+      "eligible": true,
+      "total_score": 63,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 24,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Java",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "MySQL",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, rag, vector search, embeddings, llm, langchain",
+        "Backend evidence: python, django, async, asynchronous, postgresql, rest api, backend, api",
+        "Cloud/full-stack evidence: react, next.js",
+        "Engineering depth: logging, concurrency",
+        "LLM project-quality assessment: 35/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 35,
+        "implementation_evidence": []
+      },
+      "rank": 18
+    },
+    {
+      "candidate_name": "PRIYANSHU KUMAR",
+      "filename": "candidate_16.pdf",
+      "eligible": true,
+      "total_score": 59,
+      "score_breakdown": {
+        "ai_project_depth": 33,
+        "python_backend": 24,
+        "cloud_fullstack": 1,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "MySQL",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, agentic, tool calling, rag, embeddings, llm, langchain",
+        "Backend evidence: python, fastapi, async, asynchronous, postgresql, backend, api, sql",
+        "Cloud/full-stack evidence: react",
+        "Engineering depth: architecture",
+        "LLM project-quality assessment: 33/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 33,
+        "implementation_evidence": []
+      },
+      "rank": 19
+    },
+    {
+      "candidate_name": "SHUBHANSHU NAVADIYA",
+      "filename": "candidate_12.pdf",
+      "eligible": true,
+      "total_score": 53,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 17,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "PyTorch",
+        "LangChain",
+        "LlamaIndex",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong AI/agentic project depth"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: agentic, rag, retrieval, embeddings, evaluation, llm, langchain, llamaindex",
+        "Backend evidence: python, fastapi, rest api, backend, api, sql",
+        "Engineering depth: testing",
+        "LLM project-quality assessment: 35/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 35,
+        "implementation_evidence": []
+      },
+      "rank": 20
+    },
+    {
+      "candidate_name": "PAVANI  A",
+      "filename": "candidate_38.pdf",
+      "eligible": true,
+      "total_score": 52,
+      "score_breakdown": {
+        "ai_project_depth": 17,
+        "python_backend": 28,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "Java",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "PostgreSQL",
+        "MySQL",
+        "Docker",
+        "TensorFlow",
+        "Keras",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": "https://github.com/Pavani",
+        "available": true,
+        "score": 0,
+        "summary": "0 recently updated repositories; 0 Python/AI/backend-relevant repositories.",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, evaluation, llm",
+        "Backend evidence: python, fastapi, flask, django, postgresql, rest api, backend, api",
+        "Cloud/full-stack evidence: docker, react, next.js",
+        "Engineering depth: ci/cd",
+        "LLM project-quality assessment: 17/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 17,
+        "implementation_evidence": []
+      },
+      "rank": 21
+    },
+    {
+      "candidate_name": "HARSHA A",
+      "filename": "candidate_15.pdf",
+      "eligible": true,
+      "total_score": 50,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 20,
+        "cloud_fullstack": 8,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "MySQL",
+        "Docker",
+        "Azure",
+        "TensorFlow",
+        "Keras",
+        "OpenCV",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, evaluation",
+        "Backend evidence: python, fastapi, postgresql, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: docker, azure, react",
+        "LLM project-quality assessment: 22/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 22,
+        "implementation_evidence": []
+      },
+      "rank": 22
+    },
+    {
+      "candidate_name": "Thejeshwaar Paasila",
+      "filename": "candidate_26.pdf",
+      "eligible": true,
+      "total_score": 49,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 18,
+        "cloud_fullstack": 13,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Docker",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, llm",
+        "Backend evidence: python, flask, postgresql, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: docker, google cloud, deployment, vercel, react, next.js",
+        "Engineering depth: testing, ci/cd, architecture",
+        "LLM project-quality assessment: 15/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 15,
+        "implementation_evidence": []
+      },
+      "rank": 23
+    },
+    {
+      "candidate_name": "candidate_19",
+      "filename": "candidate_19.pdf",
+      "eligible": true,
+      "total_score": 47,
+      "score_breakdown": {
+        "ai_project_depth": 28,
+        "python_backend": 10,
+        "cloud_fullstack": 8,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "React",
+        "MySQL",
+        "Docker",
+        "AWS",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, evaluation, llm",
+        "Backend evidence: python, flask, sql",
+        "Cloud/full-stack evidence: docker, aws, react",
+        "Engineering depth: logging",
+        "LLM project-quality assessment: 28/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 28,
+        "implementation_evidence": []
+      },
+      "rank": 24
+    },
+    {
+      "candidate_name": "KRISHAN KANT",
+      "filename": "candidate_09.pdf",
+      "eligible": true,
+      "total_score": 46,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 23,
+        "cloud_fullstack": 5,
+        "github": 0,
+        "engineering_depth": 4
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "LangChain",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, vector search, llm, langchain",
+        "Backend evidence: python, async, asynchronous, postgresql, redis, rest api, backend, api",
+        "Cloud/full-stack evidence: docker, react",
+        "Engineering depth: caching, logging, concurrency, architecture",
+        "LLM project-quality assessment: 14/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 14,
+        "implementation_evidence": []
+      },
+      "rank": 25
+    },
+    {
+      "candidate_name": "candidate_36",
+      "filename": "candidate_36.pdf",
+      "eligible": true,
+      "total_score": 46,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 19,
+        "cloud_fullstack": 3,
+        "github": 10,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": "https://github.com/Nagorisaifali",
+        "available": true,
+        "score": 10,
+        "summary": "7 recently updated repositories; 12 Python/AI/backend-relevant repositories.",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, llm",
+        "Backend evidence: python, fastapi, flask, backend, api, sql",
+        "Cloud/full-stack evidence: deployment, react",
+        "LLM project-quality assessment: 14/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 14,
+        "implementation_evidence": []
+      },
+      "rank": 26
+    },
+    {
+      "candidate_name": "M SAI KUSHITH",
+      "filename": "candidate_06.pdf",
+      "eligible": true,
+      "total_score": 45,
+      "score_breakdown": {
+        "ai_project_depth": 23,
+        "python_backend": 21,
+        "cloud_fullstack": 1,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Java",
+        "TypeScript",
+        "React",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [
+        "Strong Python/backend engineering"
+      ],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: langgraph, rag, llm, langchain",
+        "Backend evidence: python, fastapi, django, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: react",
+        "LLM project-quality assessment: 23/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 23,
+        "implementation_evidence": []
+      },
+      "rank": 27
+    },
+    {
+      "candidate_name": "Aswin Raj R",
+      "filename": "candidate_49.pdf",
+      "eligible": true,
+      "total_score": 42,
+      "score_breakdown": {
+        "ai_project_depth": 27,
+        "python_backend": 11,
+        "cloud_fullstack": 4,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MySQL",
+        "AWS",
+        "TensorFlow",
+        "LangChain",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, llm, langchain",
+        "Backend evidence: python, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: aws, react",
+        "LLM project-quality assessment: 27/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 27,
+        "implementation_evidence": []
+      },
+      "rank": 28
+    },
+    {
+      "candidate_name": "ANNISHA S",
+      "filename": "candidate_23.pdf",
+      "eligible": true,
+      "total_score": 41,
+      "score_breakdown": {
+        "ai_project_depth": 24,
+        "python_backend": 13,
+        "cloud_fullstack": 4,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "React",
+        "Azure",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: llm",
+        "Backend evidence: python, fastapi, api, sql",
+        "Cloud/full-stack evidence: azure, react",
+        "LLM project-quality assessment: 24/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 24,
+        "implementation_evidence": []
+      },
+      "rank": 29
+    },
+    {
+      "candidate_name": "candidate_45",
+      "filename": "candidate_45.pdf",
+      "eligible": true,
+      "total_score": 39,
+      "score_breakdown": {
+        "ai_project_depth": 5,
+        "python_backend": 19,
+        "cloud_fullstack": 13,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "Azure",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, flask, async, redis, backend, api, sql",
+        "Cloud/full-stack evidence: docker, aws, azure, deployment, react",
+        "Engineering depth: caching, ci/cd",
+        "LLM project-quality assessment: 5/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 5,
+        "implementation_evidence": []
+      },
+      "rank": 30
+    },
+    {
+      "candidate_name": "candidate_25",
+      "filename": "candidate_25.pdf",
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 13,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "GCP",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, llm",
+        "Backend evidence: python, flask, rest api, api, sql",
+        "Cloud/full-stack evidence: gcp, google cloud, deployment",
+        "LLM project-quality assessment: 15/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 15,
+        "implementation_evidence": []
+      },
+      "rank": 31
+    },
+    {
+      "candidate_name": "NISARGA H. S.",
+      "filename": "candidate_34.pdf",
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 24,
+        "python_backend": 11,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Node.js",
+        "MySQL",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: deployment",
+        "Engineering depth: ci/cd",
+        "LLM project-quality assessment: 24/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 24,
+        "implementation_evidence": []
+      },
+      "rank": 32
+    },
+    {
+      "candidate_name": "DORNIPADU K ARTHIKA CHAIT RIKA",
+      "filename": "candidate_24.pdf",
+      "eligible": true,
+      "total_score": 36,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 14,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Django",
+        "Java",
+        "JavaScript",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, embeddings, llm",
+        "Backend evidence: python, flask, django, api",
+        "LLM project-quality assessment: 22/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 22,
+        "implementation_evidence": []
+      },
+      "rank": 33
+    },
+    {
+      "candidate_name": "VIKRAM MADHYASTA",
+      "filename": "candidate_29.pdf",
+      "eligible": true,
+      "total_score": 36,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 11,
+        "cloud_fullstack": 9,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "Docker",
+        "AWS",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: docker, aws, deployment",
+        "Engineering depth: ci/cd",
+        "LLM project-quality assessment: 15/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 15,
+        "implementation_evidence": []
+      },
+      "rank": 34
+    },
+    {
+      "candidate_name": "candidate_14",
+      "filename": "candidate_14.pdf",
+      "eligible": true,
+      "total_score": 33,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 7,
+        "cloud_fullstack": 4,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "MySQL",
+        "AWS",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [
+        "Python appears but backend implementation evidence is limited"
+      ],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, api, sql",
+        "Cloud/full-stack evidence: aws, react",
+        "LLM project-quality assessment: 22/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 22,
+        "implementation_evidence": []
+      },
+      "rank": 35
+    },
+    {
+      "candidate_name": "candidate_21",
+      "filename": "candidate_21.pdf",
+      "eligible": true,
+      "total_score": 33,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 15,
+        "cloud_fullstack": 3,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Java",
+        "React",
+        "MySQL",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "OpenCV",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag, retrieval, evaluation",
+        "Backend evidence: python, flask, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: deployment, react",
+        "Engineering depth: testing",
+        "LLM project-quality assessment: 14/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 14,
+        "implementation_evidence": []
+      },
+      "rank": 36
+    },
+    {
+      "candidate_name": "VISHWAS BADIGER",
+      "filename": "candidate_05.pdf",
+      "eligible": true,
+      "total_score": 30,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 15,
+        "cloud_fullstack": 1,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MySQL",
+        "RAG",
+        "Git",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, flask, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: react",
+        "LLM project-quality assessment: 14/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 14,
+        "implementation_evidence": []
+      },
+      "rank": 37
+    },
+    {
+      "candidate_name": "Gayathri Palraj",
+      "filename": "candidate_27.pdf",
+      "eligible": true,
+      "total_score": 22,
+      "score_breakdown": {
+        "ai_project_depth": 4,
+        "python_backend": 11,
+        "cloud_fullstack": 4,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "MySQL",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": null,
+        "available": false,
+        "score": 0,
+        "summary": "No GitHub profile found",
+        "error": null
+      },
+      "strengths": [],
+      "concerns": [],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, rest api, backend, api, sql",
+        "Cloud/full-stack evidence: deployment, vercel, react",
+        "Engineering depth: testing, ci/cd, architecture",
+        "LLM project-quality assessment: 4/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 4,
+        "implementation_evidence": []
+      },
+      "rank": 38
+    },
+    {
+      "candidate_name": "React Native Basic",
+      "filename": "candidate_20.pdf",
+      "eligible": true,
+      "total_score": 16,
+      "score_breakdown": {
+        "ai_project_depth": 8,
+        "python_backend": 7,
+        "cloud_fullstack": 1,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ],
+      "project_summary": "No project summary provided by the model.",
+      "github": {
+        "url": "https://github.com/Priya291102PRIYA",
+        "available": false,
+        "score": 0,
+        "summary": "GitHub profile unavailable",
+        "error": "HTTP 404"
+      },
+      "strengths": [],
+      "concerns": [
+        "Python appears but backend implementation evidence is limited"
+      ],
+      "evidence": [
+        "AI evidence: rag",
+        "Backend evidence: python, api, sql",
+        "Cloud/full-stack evidence: react",
+        "LLM project-quality assessment: 8/40"
+      ],
+      "llm_analysis": {
+        "used": true,
+        "ai_project_score": 8,
+        "implementation_evidence": []
+      },
+      "rank": 39
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate_name": "Kartikay Sinha",
+      "filename": "candidate_01.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "MySQL",
+        "Docker",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "SHIVAM RAJ",
+      "filename": "candidate_02.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Docker",
+        "Azure",
+        "RAG",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "candidate_name": "Agam Jain",
+      "filename": "candidate_03.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of AI/LLM/RAG/agentic work"
+      ],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "Yuvaraj R",
+      "filename": "candidate_04.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of AI/LLM/RAG/agentic work"
+      ],
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Java",
+        "PostgreSQL",
+        "Docker",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "Software Engineer",
+      "filename": "candidate_11.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "AWS",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "Harshit Kumar Mishra",
+      "filename": "candidate_18.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "GCP",
+        "AWS",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "Shreya Chauhan",
+      "filename": "candidate_31.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of AI/LLM/RAG/agentic work"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MySQL",
+        "Redis",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "Mukul Pal",
+      "filename": "candidate_32.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "RAG",
+        "LLM",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "candidate_42",
+      "filename": "candidate_42.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No evidence of AI/LLM/RAG/agentic work"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "AABHAR GUPTA",
+      "filename": "candidate_46.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "RAG",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    },
+    {
+      "candidate_name": "NIDHI KM",
+      "filename": "candidate_48.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of AI/LLM/RAG/agentic work"
+      ],
+      "matched_skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "MySQL",
+        "AWS",
+        "TensorFlow",
+        "OpenCV",
+        "Git",
+        "GitHub",
+        "SQL"
+      ]
+    }
+  ],
+  "failed_candidates": []
+}
